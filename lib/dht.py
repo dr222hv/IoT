@@ -1,3 +1,5 @@
+#https://github.com/JurassicPork/DHT_PyCom #credit
+
 import time
 import pycom
 from machine import enable_irq, disable_irq,  Pin
